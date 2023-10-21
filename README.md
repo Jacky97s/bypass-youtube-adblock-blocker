@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-不想訂閱 YouTube Premium，繼續當免費仔
+不想訂閱 YouTube Premium，繼續當免費仔，Just For Fun~
 <br>
 </p>
 
@@ -18,8 +18,11 @@
 - [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089)
 
 ### 2. 安裝腳本至 Tampermonkey (篡改猴)
-- [點擊安裝](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=84ac766c-a723-410d-b300-79f54cc7e015)
+- [點擊安裝](https://greasyfork.org/scripts/477932-replace-youtube-player-with-iframe/code/Replace%20YouTube%20Player%20with%20iFrame.user.js)
 
 ## 已知問題
-1. 無法使用瀏覽器中「往前」、「往後」功能，影片將繼續播放
+1. 無法使用瀏覽器頁面「往前」、「往後」功能，iFrame 影片將繼續播放
 2. 無法點擊其他影片縮圖播放其他影片，必須使用「新視窗」
+
+## 後續更新
+有其他人製作更好的腳本，[點擊安裝](https://greasyfork.org/scripts/477725-youtube-iframe-adblocker/code/YouTube%20iFrame%20AdBlocker.user.js)
