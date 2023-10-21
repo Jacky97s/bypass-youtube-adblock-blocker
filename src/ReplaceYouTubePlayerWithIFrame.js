@@ -1,10 +1,17 @@
 // ==UserScript==
 // @name         Replace YouTube Player with iFrame
 // @version      1.0
-// @description  Replaces the YouTube player with an iFrame on specific URLs after all elements are loaded
-// @author       Jacky97s
+// @description  繞過 YouTube 禁用廣告攔截器 (簡易版)
+// @license      MIT
+// @homepage     https://github.com/Jacky97s
+// @homepageURL  https://github.com/Jacky97s
+// @website      https://github.com/Jacky97s
+// @source       https://github.com/Jacky97s/bypass-youtube-adblock-blocker/raw/main/src/ReplaceYouTubePlayerWithIFrame.js
+// @namespace    https://github.com/Jacky97s/bypass-youtube-adblock-blocker/raw/main/src/ReplaceYouTubePlayerWithIFrame.js
 // @match        https://www.youtube.com/watch*
-// @grant        none
+// @author       Jacky97s
+// @run-at       document-idle
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=sinopac.com
 // ==/UserScript==
 
 (function() {
