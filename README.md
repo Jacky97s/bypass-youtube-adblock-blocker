@@ -8,6 +8,8 @@
 </p>
 
 
+
+
 ## 使用方式
 ### 1. 根據瀏覽器安裝 Tampermonkey (篡改猴)
 - [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
@@ -15,9 +17,8 @@
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 - [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089)
 
-<!-- TODO 更新網址
 ### 2. 安裝腳本至 Tampermonkey (篡改猴)
-- [點擊安裝]() -->
+- [點擊安裝](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=84ac766c-a723-410d-b300-79f54cc7e015)
 
 ## 已知問題
 1. 無法使用瀏覽器中「往前」、「往後」功能，影片將繼續播放
